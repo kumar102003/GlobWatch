@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "RJ Young",
+      "title": "2024 college football rankings: Oregon, Georgia on top; Colorado enters top 25",
+      "description": "FOX Sports college football analyst RJ Young shares his new top 25 rankings following Week 8 of the college football season.",
+      "url": "https://www.foxsports.com/stories/college-football/2024-college-football-rankings-oregon-georgia-top-colorado-enters-top-25",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/10/1408/814/cfb-rjyoung-top25-16x9-2-4-1.jpg?ve=1&tl=1",
+      "publishedAt": "2024-10-20T06:11:18Z",
+      "content": "In the first season of the 16-team SEC, the league has shown to be even more difficult than we thought it might be. It's not just that Alabama\r\n upset Georgia back in Week 5 to achieve the No. 1 rank… [+8822 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Liam Hoofe",
+      "title": "Best betting sites UK | Top betting site offers for October 2024...",
+      "description": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events…",
+      "url": "https://talksport.com/betting/1760032/best-betting-sites-uk/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/08/talksport-best-betting-sites-uk-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2024-10-04T08:45:00Z",
+      "content": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events, … [+17381 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    }
+  ]
+}
