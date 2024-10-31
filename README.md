@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Globewatch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Globewatch is a news application that fetches real-time information from various APIs and presents it on the server. The app categorizes news into different sections and allows users to navigate through multiple pages of articles easily.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Real-Time News Fetching**: Access the latest news from various sources.
+- **Categorized News**: Explore news in different categories:
+  - Home
+  - Business
+  - Entertainment
+  - General
+  - Health
+  - Science
+  - Sports
+  - Technology
+- **Pagination**: View 6 news articles per page with **Previous** and **Next** page navigation.
+- **Responsive Design**: The app is designed to work well on various devices.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To get started with Globewatch, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/globewatch.git
+   cd globewatch
+Install the necessary dependencies:
+npm install
 
-### `npm test`
+Start the application:
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Usage
 
-### `npm run build`
+Once the application is running, open your browser and go to http://localhost:3000 to view the news. Use the navigation options to explore different categories and pages of news articles.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here is How Home Page Looks Like 
+![image](https://github.com/user-attachments/assets/b437d5b5-0927-4053-af54-24e9d31f31eb)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Here are different Categories Available  
+![image](https://github.com/user-attachments/assets/3f6a6a4f-755a-4846-869a-dd6b5f014f13)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+It Has previous and next button available as well 
+![image](https://github.com/user-attachments/assets/effdf07c-3ed6-4217-8171-5f2853af135d)
 
-### `npm run eject`
+Also each news has corresponding image attached with it 
+![image](https://github.com/user-attachments/assets/e6996152-75c1-47a8-8c31-f32d7a0d1b05)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Also each card contains the info of publisher of news Date of publish also Publisher Name as well 
+![image](https://github.com/user-attachments/assets/815bad09-4750-463f-a8c1-fc2301fc6f56)
