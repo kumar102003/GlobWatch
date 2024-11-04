@@ -23,7 +23,7 @@ To get started with Globewatch, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/globewatch.git
+   https://github.com/kumar102003/GlobWatch.git
    cd globewatch
 Install the necessary dependencies:
 npm install
